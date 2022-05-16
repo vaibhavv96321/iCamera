@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007883024524",
+    "project_id": "icamera-4d0e0",
+    "storage_bucket": "icamera-4d0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007883024524:android:4a610de6cb9ffbf2d963a9",
+        "android_client_info": {
+          "package_name": "com.icamera.vaibhavv96321"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007883024524-v86o8ujasmbbtdcppltgtrcak27kbadl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR1GJKJmdv5cXiRNFKs3m5hfncUWFV0rQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007883024524-v86o8ujasmbbtdcppltgtrcak27kbadl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
